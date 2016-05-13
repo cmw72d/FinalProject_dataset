@@ -1,1 +1,3 @@
+SELECT * FROM tweet WHERE job_id = 1160 LIMIT 20;
 
+SELECT * FROM tweet WHERE job_id = 2335 LIMIT 20;
